@@ -1,4 +1,7 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7F0E&height=120&section=header&text=Levi%20Perry&fontColor=555555&fontSize=30&animation=fadeIn" />
+
 <!-- Profile Header -->
+
 <div align="center">
 
 ### <span style="color:#FA7F0E">Hi, I'm Levi Perry</span>
@@ -72,11 +75,12 @@ I value clarity, structure, and real-world applicability in technical and operat
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=00000000&title_color=FA7F0E&icon_color=FA7F0E&text_color=555555)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=levnorth&show_icons=true&hide_border=true&cache_seconds=86400&bg_color=00000000&title_color=FA7F0E&icon_color=FA7F0E&text_color=555555"
+/>
 
 </div>
 
----
 
 ## Connect
 
@@ -93,3 +97,6 @@ I value clarity, structure, and real-world applicability in technical and operat
 <span style="color:#555555">
 Focused on building secure, well-documented systems — one contribution at a time.
 </span>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=100&section=footer" />
+
