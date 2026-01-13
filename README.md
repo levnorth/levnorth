@@ -82,7 +82,7 @@ I value clarity, structure, and real-world applicability in technical and operat
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/levnorth">
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=social&label=Follow" />
 </a>
 
