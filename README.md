@@ -1,6 +1,4 @@
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=180&section=header&text=Levi%20Perry&fontColor=FA7F0E&fontSize=42"
-/>
+
 
 <!-- Profile Header -->
 
