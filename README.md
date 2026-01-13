@@ -1,4 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FA7F0E&height=120&section=header&text=Levi%20Perry&fontColor=555555&fontSize=30&animation=fadeIn" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=180&section=header&text=Levi%20Perry&fontColor=FA7F0E&fontSize=42"
+/>
 
 <!-- Profile Header -->
 
@@ -98,5 +100,7 @@ I value clarity, structure, and real-world applicability in technical and operat
 Focused on building secure, well-documented systems — one contribution at a time.
 </span>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=555555&height=100&section=footer" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=FA7F0E&height=120&section=footer"
+/>
 
